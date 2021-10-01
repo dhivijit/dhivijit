@@ -4,6 +4,7 @@
 - I have made an Universal Search Bar with which you can search through websites easily without visiting them, and I am planning to add many more exciting features
 You can fork my Project and help me make it beautiful
 - 📫 Reach me on Instagram(My username is [@dhivijit](https://www.instagram.com/dhivijit))
+- [My handles](https://dhivijit.bio.link)
 
 <!---
 dhivijit/dhivijit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
