@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhivijit
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning JavaScript and Python
-- I have made an Universal Search Bar with which you can search through websites easily without visiting them, and I am planning to add many more exciting features
+- I made a Universal Search Bar with which you can search through websites easily without visiting them, I am planning to add many more exciting features
 You can fork my Project and help me make it beautiful
 - 📫 Reach me on Instagram(My username is [@dhivijit](https://www.instagram.com/dhivijit))
 - [My handles](https://dhivijit.bio.link)
