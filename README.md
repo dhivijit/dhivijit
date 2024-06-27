@@ -1,5 +1,17 @@
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Dosis&size=35&pause=500&random=false&width=435&lines=Hi,+I'm+Dhivijit;A+Cyber+Security+Enthusiast;A+Web+Developer;" />
+</div>
+
+
 # 💫 About Me:
 Hello! I'm Dhivijit, a dedicated Cyber Security B.Tech student at Amrita Vishwa Vidyapeetham. I'm passionate about exploring the intersection of technology and security, with a strong interest in Artificial Intelligence, and Blockchain. I've actively engaged in hands-on experiences, including participating in capture the flag events, which have contributed to honing my practical skills.
+<br><br>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhivijit/dhivijit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhivijit/dhivijit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhivijit/dhivijit/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 
 ## 🌐 Socials:
